@@ -5,7 +5,7 @@
   (contoh: github.com/USERNAME/USERNAME), lalu set repo ke Public.
 
   CARI & GANTI (Ctrl+F):
-    YOUR_GITHUB_USERNAME   YOUR_PROFILE_IMAGE_URL   YOUR_EMAIL
+    ilhmd-ham   YOUR_PROFILE_IMAGE_URL   YOUR_EMAIL
     YOUR_LINKEDIN          YOUR_INSTAGRAM           YOUR_PORTFOLIO_URL
     YOUR_WHATSAPP_NUMBER   YOUR_PROJECT_1_URL (2, 3)   YOUR_CITY   YOUR_...
   =====================================================================
@@ -14,7 +14,7 @@
 <div align="center">
 
 <!-- FOTO PROFIL: ganti YOUR_PROFILE_IMAGE_URL dengan link gambar (mis. .png/.jpg di repo ini
-     atau https://github.com/YOUR_GITHUB_USERNAME.png untuk memakai avatar GitHub). -->
+     atau https://github.com/ilhmd-ham.png untuk memakai avatar GitHub). -->
 <img src="YOUR_PROFILE_IMAGE_URL" width="160" alt="Muhammad Ilham">
 
 <h1>Hi 👋, I'm Muhammad Ilham</h1>
@@ -22,7 +22,7 @@
 <h3>Full Stack Developer &nbsp;|&nbsp; Software Developer &nbsp;|&nbsp; Student</h3>
 
 <!-- ANIMATED TYPING: ubah teks di bagian lines=... (pisahkan dengan ; dan spasi jadi +) -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/ilhmd-ham">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&height=40&lines=Software+Developer;Full+Stack+Developer;Web+Developer;Mobile+Developer;API+Developer;Tech+Enthusiast" alt="Typing animation: Software Developer, Full Stack Developer, Web Developer, Mobile Developer, API Developer, Tech Enthusiast">
 </a>
 
@@ -112,12 +112,12 @@ I'm a developer and student who enjoys turning ideas into things people can actu
 ## 📊 GitHub Statistics
 
 <div align="center">
-<!-- Ganti YOUR_GITHUB_USERNAME. Ganti theme=tokyonight dengan tema lain jika mau
+<!-- Ganti ilhmd-ham. Ganti theme=tokyonight dengan tema lain jika mau
      (daftar: github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md) -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ilhmd-ham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhmd-ham&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages">
 <br>
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak">
+<img src="https://streak-stats.demolab.com?user=ilhmd-ham&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </div>
 
 ---
@@ -125,7 +125,7 @@ I'm a developer and student who enjoys turning ideas into things people can actu
 ## 📈 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilhmd-ham&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%">
 </div>
 
 ---
@@ -135,9 +135,9 @@ I'm a developer and student who enjoys turning ideas into things people can actu
 <!-- Butuh workflow .github/workflows/snake.yml (lihat panduan). Gambar baru muncul setelah workflow sukses dijalankan. -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilhmd-ham/ilhmd-ham/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilhmd-ham/ilhmd-ham/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ilhmd-ham/ilhmd-ham/output/github-snake.svg">
 </picture>
 </div>
 
@@ -188,7 +188,7 @@ Short description of what this project does and who it is for.
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="100"><a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://cdn.simpleicons.org/github/white" width="32" height="32" alt="GitHub"><br><sub>GitHub</sub></a></td>
+    <td align="center" width="100"><a href="https://github.com/ilhmd-ham"><img src="https://cdn.simpleicons.org/github/white" width="32" height="32" alt="GitHub"><br><sub>GitHub</sub></a></td>
     <td align="center" width="100"><a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"><br><sub>LinkedIn</sub></a></td>
     <td align="center" width="100"><a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram"><br><sub>Instagram</sub></a></td>
     <td align="center" width="100"><a href="mailto:YOUR_EMAIL@example.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email"><br><sub>Email</sub></a></td>
@@ -203,5 +203,5 @@ Short description of what this project does and who it is for.
 <div align="center">
 <sub>Thanks for stopping by. Feel free to open an issue or say hi.</sub>
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+views&color=0e75b6&style=flat" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=ilhmd-ham&label=Profile+views&color=0e75b6&style=flat" alt="Profile views">
 </div>
