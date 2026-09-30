@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/ilhmd-ham.png" width="160" alt="Muhammad Ilham">
+<img src="banner.png" width="100%" alt="Muhammad Ilham - Full Stack Developer">
 
-<h1>Hi 👋, I'm Muhammad Ilham</h1>
+<a href="https://github.com/ilhmd-ham">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Ilham" alt="Hi, I'm Muhammad Ilham">
+</a>
 
 <h3>Full Stack Developer &nbsp;|&nbsp; Student</h3>
 
@@ -11,6 +13,10 @@
 </a>
 
 <i>Building reliable, user-focused software from interface to database.</i>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ilhmd-ham&label=Profile+views&color=0e75b6&style=flat" alt="Profile views">
 
 </div>
 
@@ -87,6 +93,26 @@ I'm a developer and student who enjoys turning ideas into software people can ac
 
 ---
 
+## 📈 GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilhmd-ham&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&radius=10" alt="Contribution activity graph" width="100%">
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilhmd-ham/ilhmd-ham/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilhmd-ham/ilhmd-ham/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ilhmd-ham/ilhmd-ham/output/github-snake.svg">
+</picture>
+</div>
+
+---
+
 ## 🌱 Currently Working On
 
 - 🔭 **Building:** Web and mobile applications with React, Laravel, and Flutter
@@ -110,8 +136,10 @@ I'm a developer and student who enjoys turning ideas into software people can ac
 </table>
 </div>
 
----
+<br>
 
 <div align="center">
 <sub>Thanks for stopping by. Feel free to open an issue or say hi.</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=120&section=footer" width="100%" alt="Footer wave">
