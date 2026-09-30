@@ -96,7 +96,11 @@ I'm a developer and student who enjoys turning ideas into software people can ac
 ## 📈 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilhmd-ham&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&radius=10" alt="Contribution activity graph" width="100%">
+<img src="https://ghchart.rshah.org/58A6FF/ilhmd-ham" alt="Contribution chart" width="100%">
+<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilhmd-ham&theme=tokyonight" alt="Profile details" height="180">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilhmd-ham&theme=tokyonight" alt="Repos per language" height="180">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ilhmd-ham&theme=tokyonight" alt="Most commit language" height="180">
 </div>
 
 ---
